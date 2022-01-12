@@ -1,2 +1,2 @@
 # Memory-Game
-Memory game created with using mostly JS. Heavily inspired by Dev Ed :) 
+Memory game created with using mostly JS. Inspired by Dev Ed :) 
